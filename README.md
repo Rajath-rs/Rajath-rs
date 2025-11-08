@@ -1,7 +1,7 @@
 <!-- PROFILE README for YOUR_USERNAME -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajath-rs&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 # 👋 Hi, I'm RAJATH
