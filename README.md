@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Location-India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <br/><br/>
  
-<a href="https://rajathraju96.wixsite.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-Add%20your%20link-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Add%20your%20link-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/rajath-h-54a2b52a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rajathraju96@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Rajath-rs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -63,8 +63,8 @@ I'm a student and web developer who enjoys turning ideas into clean, functional 
 | Domain | Level | Notes |
 |---|---|---|
 | Full Stack Web Dev | Active | Building production-style apps with Django / Node |
-| Mobile (Flutter) | Active | Cross-platform app fundamentals |
-| AI / ML | Learning | Exploring foundations — not yet a core specialty |
+| Mobile (Flutter) | Learning | Cross-platform app fundamentals |
+| AI / ML | Beginner | Exploring foundations — not yet a core specialty |
  
 <br/>
 ---
@@ -106,35 +106,56 @@ A dashboard-style application focused on giving hospital staff a clean, centrali
  
 ## 💼 Experience
  
-> _Add your internships or work experience here — title, company, dates, and a couple of bullet points on scope of work. Leaving this section out of a public README is also completely fine until you have entries to add._
+### Software Development Intern | Team Lead
+**Rashtrakavi Kuvempu Airport, Shivamogga** · *Feb 2026 – Present*
  
+Leading development of operational digital systems used live across airport premises.
+ 
+<details>
+<summary><b>Airport Passenger Feedback System</b></summary>
 <br/>
----
+- Designed and deployed a real-time feedback collection platform for passengers and airport staff
+- Delivered an admin dashboard for instant feedback insights and swift resolution
+- Turned feedback data into actionable insights for live tracking and issue resolution
+`Real-Time Systems` `Admin Dashboards` `Data-Driven Workflows`
  
-## 🏆 Achievements
+</details>
+<details>
+<summary><b>Employee & Worker Pass-Issuer System</b></summary>
+<br/>
+- Engineered a digital pass-issuance system for employees, contractors, and workers
+- Applied role-based access control across all pass types and clearance levels
+- Automated pass generation, eliminating manual paperwork with a seamless digital workflow
+- Ensured verified, tamper-resistant passes through integrated employee record validation
+`RBAC` `Workflow Automation` `Data Validation`
  
-<div align="center">
-| Recognition | Details |
-|---|---|
-| _Add achievement_ | _Add details_ |
+</details>
+<details>
+<summary><b>Airport Wi-Fi Authentication System</b></summary>
+<br/>
+- Deployed a secure Wi-Fi portal managing passenger and staff network access
+- Enforced session management and time-based controls for network security and fair usage
+- Designed a clean captive-portal UI for a smooth authentication experience
+- Maintained reliable live authentication handling real users across airport premises daily
+`Authentication` `Session Management` `Network Security`
  
-</div>
+</details>
+<details>
+<summary><b>Live Complaint Tracking System</b></summary>
+<br/>
+- Built an end-to-end system for raising, tracking, and resolving complaints live
+- Delivered a live status dashboard for real-time resolution progress visibility
+- Automated priority-based routing to escalate critical complaints to the right department
+- Cut resolution turnaround through structured workflows and instant department notifications
+`Live Dashboards` `Priority Routing` `Process Optimization`
+ 
+</details>
 <br/>
 ---
  
 ## 📜 Certifications
  
 > _Add your certifications here, grouped by provider (e.g. AWS, Oracle, NPTEL, Cisco) once you have them — badges look great here._
- 
-<br/>
----
- 
-## 👨‍💻 Coding Profiles
- 
-<p>
-<a href="https://github.com/Rajath-rs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-> _Add LeetCode / GeeksforGeeks / HackerRank / CodeChef profile links here if you'd like them featured._
  
 <br/>
 ---
@@ -153,29 +174,11 @@ A dashboard-style application focused on giving hospital staff a clean, centrali
 <br/>
 ---
  
-## 🏅 GitHub Trophies
- 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rajath-rs&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</p>
-<br/>
----
- 
 ## 📈 Contribution Activity
  
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajath-rs&theme=react-dark&bg_color=0F0524&color=C4B5FD&line=A78BFA&point=E9D5FF" />
 </p>
-<br/>
----
- 
-## 🐍 Contribution Snake
- 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Rajath-rs/Rajath-rs/output/github-contribution-grid-snake-dark.svg" />
-</p>
-> _This renders once you set up the [contribution-snake GitHub Action](https://github.com/Platane/snk) on your profile repo._
- 
 <br/>
 ---
  
