@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Location-India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <br/><br/>
  
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Add%20your%20link-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://rajathraju96.wixsite.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-Add%20your%20link-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/rajath-h-54a2b52a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rajathraju96@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Rajath-rs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -63,7 +63,7 @@ I'm a student and web developer who enjoys turning ideas into clean, functional 
 | Domain | Level | Notes |
 |---|---|---|
 | Full Stack Web Dev | Active | Building production-style apps with Django / Node |
-| Mobile (Flutter) | Learning | Cross-platform app fundamentals |
+| Mobile (Flutter) | Active | Cross-platform app fundamentals |
 | AI / ML | Beginner | Exploring foundations — not yet a core specialty |
  
 <br/>
@@ -150,13 +150,6 @@ Leading development of operational digital systems used live across airport prem
 `Live Dashboards` `Priority Routing` `Process Optimization`
  
 </details>
-<br/>
----
- 
-## 📜 Certifications
- 
-> _Add your certifications here, grouped by provider (e.g. AWS, Oracle, NPTEL, Cisco) once you have them — badges look great here._
- 
 <br/>
 ---
  
