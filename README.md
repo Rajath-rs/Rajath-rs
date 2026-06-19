@@ -63,8 +63,8 @@ I'm a student and web developer who enjoys turning ideas into clean, functional 
 | Domain | Level | Notes |
 |---|---|---|
 | Full Stack Web Dev | Active | Building production-style apps with Django / Node |
-| Mobile (Flutter) | Learning | Cross-platform app fundamentals |
-| AI / ML | Beginner | Exploring foundations — not yet a core specialty |
+| Mobile (Flutter) | Active | Cross-platform app fundamentals |
+| AI / ML | Learning | Exploring foundations — not yet a core specialty |
  
 <br/>
 ---
