@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Location-India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <br/><br/>
  
-<a href="https://rajathraju96.wixsite.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-Add%20your%20link-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://rajathraju96.wixsite.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-Add%20your%20link-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white",placeholder="My Portfolio" /></a>
 <a href="https://www.linkedin.com/in/rajath-h-54a2b52a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rajathraju96@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Rajath-rs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
